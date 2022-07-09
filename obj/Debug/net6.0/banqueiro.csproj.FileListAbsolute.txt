@@ -1,0 +1,15 @@
+/home/lipin-dev/projetos-C#/banqueiro/bin/Debug/net6.0/banqueiro
+/home/lipin-dev/projetos-C#/banqueiro/bin/Debug/net6.0/banqueiro.deps.json
+/home/lipin-dev/projetos-C#/banqueiro/bin/Debug/net6.0/banqueiro.runtimeconfig.json
+/home/lipin-dev/projetos-C#/banqueiro/bin/Debug/net6.0/banqueiro.dll
+/home/lipin-dev/projetos-C#/banqueiro/bin/Debug/net6.0/banqueiro.pdb
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.csproj.AssemblyReference.cache
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.AssemblyInfoInputs.cache
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.AssemblyInfo.cs
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.csproj.CoreCompileInputs.cache
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.dll
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/refint/banqueiro.dll
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.pdb
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/banqueiro.genruntimeconfig.cache
+/home/lipin-dev/projetos-C#/banqueiro/obj/Debug/net6.0/ref/banqueiro.dll
